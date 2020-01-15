@@ -1,6 +1,6 @@
 # ML-Model-of-Customer-Churn
 
-**Repo Link:**  
+**ipynb Link:**  
 https://github.com/ursekar/ML-Model-of-Customer-Churn/blob/master/Sparkify.ipynb
 
 **Repo Files:**  
