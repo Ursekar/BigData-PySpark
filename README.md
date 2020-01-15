@@ -27,7 +27,7 @@ A json file which is a small sample of 128mb which is part of entire 12 GB data.
 1.) Logistic Regression,  
 2.) Gradient Boosted Trees  
 
-**Methodology:**  
+**Recipe:**  
 1.) ETL  
 2.) EDA & Defining Label  
 3.) Feature engineering  
